@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview
-After visiting Hawaii, I was inspired to move there and open a surf n' shake shop. In order to do this, I hired the help of a very experienced investor who presented a concern about the role weather could potentially play in my business' profitability. He has tasked me with performing some analysis on the weather in Hawaii. In order to evaluate the effect of weather I have chosen to focus on June and December as they would be considered Summer and Winter months. In order to complete this analysis I learned how to utilize SQLAlchemy. 
+After visiting Hawaii, I was inspired to move there and open a surf n' shake shop. In order to do this, I enlisted the help of a very experienced investor who presented a concern about the role weather would potentially play in my business' profitability. He has tasked me with performing some analysis on the weather trends in Hawaii. In order to evaluate the effect of weather I have chosen to focus on June and December as they would be considered peak Summer and Winter months. In order to complete this analysis I learned how to utilize SQLAlchemy. 
 ## Results
 Three key differences in weather between June and Decemeber:
 * The mean temperature in June is 74.94 degrees, while the mean temperature in December is 71.04. This means that on average the daily temperature is about 3.9 degrees warmer in June than in it is in December. 
